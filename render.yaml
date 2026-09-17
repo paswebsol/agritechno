@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: agri-technology-africa-ai
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    autoDeploy: true
